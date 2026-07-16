@@ -54,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
