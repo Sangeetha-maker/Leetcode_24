@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sangeetha-maker/Leetcode_24/tree/master/0560-subarray-sum-equals-k) |
 ## Math
